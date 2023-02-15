@@ -2,7 +2,7 @@
 To create a customized Docker container, push it to a container registry, and deploy it to a Kubernetes cluster:
 
 
-1. Write a simple Python script.
+1. Write a Python script.
 
 2. Create a Dockerfile that specifies the base image as the current version of Python and copies the Python script into the container.
 
